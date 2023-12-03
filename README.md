@@ -1,6 +1,4 @@
 # build-ioccc
-Tools to build and maintain the IOCCC web site
-
 This repo holds the tools that are use to maintain the [official IOCCC web site](https://www.ioccc.org).
 
 **HOWEVER ...** XXX
